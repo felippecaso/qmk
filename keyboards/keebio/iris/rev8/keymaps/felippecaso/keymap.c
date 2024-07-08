@@ -133,7 +133,7 @@ void process_combo_event(uint16_t combo_index, bool pressed) {
          break;
       case FJ_CAPS:
          if (pressed) {
-            tap_code(KC_CAPS);
+            caps_word_on();
          }
          break;
    }
