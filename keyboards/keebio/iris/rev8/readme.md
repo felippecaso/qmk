@@ -9,11 +9,11 @@ Hardware Availability: [Keebio](https://keeb.io)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make keebio/iris/rev6:default
+    make keebio/iris/rev8:default
 
 Example of flashing this keyboard:
 
-    make keebio/iris/rev6:default:flash
+    make keebio/iris/rev8:default:flash
 
 See [build environment setup](https://docs.qmk.fm/#/newbs_getting_started) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
